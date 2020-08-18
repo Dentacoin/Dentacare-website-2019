@@ -12,7 +12,7 @@
   "devDependencies": {
     "admin-lte": "2.3.1",
     "bootbox.js": "^4.3.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "ckeditor-full": "^4.7.3",
     "cross-env": "^5.0.1",
     "datatables.net": "^1.10.19",
