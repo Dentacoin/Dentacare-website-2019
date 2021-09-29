@@ -15,7 +15,7 @@
     "bootstrap": "^3.3.7",
     "ckeditor-full": "^4.7.3",
     "cross-env": "^5.0.1",
-    "datatables.net": "^1.10.19",
+    "datatables.net": "^1.11.3",
     "datatables.net-rowreorder": "^1.2.3",
     "datatables.net-rowreorder-bs": "^1.2.3",
     "font-awesome": "^4.7.0",
